@@ -1,0 +1,15 @@
+- Homework
+    - Homework_01
+    - Homework_02
+    - Homework_03
+- Lecture
+    - Lecture_01
+    - Lecture_02
+    - Lecture_03
+- Seminar
+    - Seminar_01
+        - Ex001 [КОД](Seminars/Seminar_01/Ex_001/Program.cs)
+        - Ex002 [КОД](Seminars/Seminar_01/Ex_002/Program.cs)
+        - Ex003 [КОД](Seminars/Seminar_01/Ex_003/Program.cs)
+    - Seminar_02
+    - Seminar_03

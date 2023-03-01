@@ -1,0 +1,15 @@
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/bin/Debug/net7.0/Ex_001
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/bin/Debug/net7.0/Ex_001.deps.json
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/bin/Debug/net7.0/Ex_001.runtimeconfig.json
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/bin/Debug/net7.0/Ex_001.dll
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/bin/Debug/net7.0/Ex_001.pdb
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/obj/Debug/net7.0/Ex_001.csproj.AssemblyReference.cache
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/obj/Debug/net7.0/Ex_001.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/obj/Debug/net7.0/Ex_001.AssemblyInfoInputs.cache
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/obj/Debug/net7.0/Ex_001.AssemblyInfo.cs
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/obj/Debug/net7.0/Ex_001.csproj.CoreCompileInputs.cache
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/obj/Debug/net7.0/Ex_001.dll
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/obj/Debug/net7.0/refint/Ex_001.dll
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/obj/Debug/net7.0/Ex_001.pdb
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/obj/Debug/net7.0/Ex_001.genruntimeconfig.cache
+/home/igor/Документы/обучение/Введение в программирование/csharp/Seminars/Seminar_01/Ex_001/obj/Debug/net7.0/ref/Ex_001.dll
