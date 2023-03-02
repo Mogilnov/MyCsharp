@@ -8,7 +8,8 @@
     - Lecture_03
 - Seminar
     - Seminar_01
-        - Ex001 [КОД](Seminars/Seminar_01/Ex_001/Program.cs)
+        - Ex001 
+        Вывести квадрат числа [Блок-схема](Seminars/Seminar_01/Ex_001/diagram.drawio.png) >>> [КОД](Seminars/Seminar_01/Ex_001/Program.cs)
         - Ex002 [КОД](Seminars/Seminar_01/Ex_002/Program.cs)
         - Ex003 [КОД](Seminars/Seminar_01/Ex_003/Program.cs)
     - Seminar_02
