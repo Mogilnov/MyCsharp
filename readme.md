@@ -16,6 +16,8 @@
         Найти большее и меньшее число 2,10 [Блок-схема](Seminars/Seminar_01/Ex_002.2/diagram.drawio.png) >>> [КОД](Seminars/Seminar_01/Ex_002.2/Program.cs)
         - Ex002.3
         Найти большее и меньшее число -9,-3 [Блок-схема](Seminars/Seminar_01/Ex_002.3/diagram.drawio.png) >>> [КОД](Seminars/Seminar_01/Ex_002.3/Program.cs)
-        - Ex003 [КОД](Seminars/Seminar_01/Ex_003/Program.cs)    
+        - Ex004.1 
+        Найти максимальное число 2,3,7 [Блок-схема](Seminars/Seminar_01/Ex_004.1/diagram.drawio.png)
+        [КОД](Seminars/Seminar_01/Ex_004.1/Program.cs)    
     - Seminar_02
     - Seminar_03
