@@ -13,7 +13,9 @@
         - Ex002.1 
         Найти большее и меньшее число 5,7 [Блок-схема](Seminars/Seminar_01/Ex_002.1/diagram.drawio.png) >>> [КОД](Seminars/Seminar_01/Ex_002.1/Program.cs)
         - Ex002.2
-        Найти большее и меньшее число 2,10 [Блок-схема](Seminars/Seminar_01/Ex_002.1/diagram.drawio.png) >>> [КОД](Seminars/Seminar_01/Ex_002.2/Program.cs)
+        Найти большее и меньшее число 2,10 [Блок-схема](Seminars/Seminar_01/Ex_002.2/diagram.drawio.png) >>> [КОД](Seminars/Seminar_01/Ex_002.2/Program.cs)
+        - Ex002.2
+        Найти большее и меньшее число -9,-3 [Блок-схема](Seminars/Seminar_01/Ex_002.3/diagram.drawio.png) >>> [КОД](Seminars/Seminar_01/Ex_002.3/Program.cs)
         - Ex003 [КОД](Seminars/Seminar_01/Ex_003/Program.cs)    
     - Seminar_02
     - Seminar_03
