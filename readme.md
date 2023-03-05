@@ -18,6 +18,10 @@
         Найти большее и меньшее число -9,-3 [Блок-схема](Seminars/Seminar_01/Ex_002.3/diagram.drawio.png) >>> [КОД](Seminars/Seminar_01/Ex_002.3/Program.cs)
         - Ex004.1 
         Найти максимальное число 2,3,7 [Блок-схема](Seminars/Seminar_01/Ex_004.1/diagram.drawio.png)
-        [КОД](Seminars/Seminar_01/Ex_004.1/Program.cs)    
+        [КОД](Seminars/Seminar_01/Ex_004.1/Program.cs)
+        - Ex004.2 
+        Найти максимальное число 44,5,78 [Блок-схема](Seminars/Seminar_01/Ex_004.2/diagram.drawio.png)
+        [КОД](Seminars/Seminar_01/Ex_004.2/Program.cs)
+          
     - Seminar_02
     - Seminar_03
