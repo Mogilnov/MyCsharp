@@ -22,8 +22,8 @@
         - Ex004.2 
         Найти максимальное число 44,5,78 [Блок-схема](Seminars/Seminar_01/Ex_004.2/diagram.drawio.png)>>>
         [КОД](Seminars/Seminar_01/Ex_004.2/Program.cs)
-         Ex004.2 
-        - Найти максимальное число 22,3,9 [Блок-схема](Seminars/Seminar_01/Ex_004.3/diagram.drawio.png)>>>
+        - Ex004.3
+        Найти максимальное число 22,3,9 [Блок-схема](Seminars/Seminar_01/Ex_004.3/diagram.drawio.png)>>>
         [КОД](Seminars/Seminar_01/Ex_004.3/Program.cs)
     - Seminar_02
     - Seminar_03
