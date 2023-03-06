@@ -33,5 +33,7 @@
         Определить чётное/нечётное 7 [Блок-схема](Seminars/Seminar_01/Ex_006.3/diagram.drawio.png)>>>[КОД](Seminars/Seminar_01/Ex_006.3/Program.cs)
         - Ex008.1
         Показать все чётные 5 [Блок-схема](Seminars/Seminar_01/Ex_008.1/diagram.drawio.png)>>>[КОД](Seminars/Seminar_01/Ex_008.1/Program.cs)
+        - Ex008.2
+        Показать все чётные 8 [Блок-схема](Seminars/Seminar_01/Ex_008.2/diagram.drawio.png)>>>[КОД](Seminars/Seminar_01/Ex_008.2/Program.cs)
     - Seminar_02
     - Seminar_03
