@@ -36,4 +36,10 @@
         - Ex008.2
         Показать все чётные 8 [Блок-схема](Seminars/Seminar_01/Ex_008.2/diagram.drawio.png)>>>[КОД](Seminars/Seminar_01/Ex_008.2/Program.cs)
     - Seminar_02
+        - Ex010
+        Принять трёхзначное число и показать вторую цифру этого числа [КОД](Seminars/Seminar_02/Ex_010/Program.cs)
+        - Ex013
+        Вывести третью цифру заданного числа или сообщить, что третьей цифры нет [КОД](Seminars/Seminar_02/Ex_013/Program.cs)
+        - Ex015
+        Принять на вход цифру, обозначающую день недели, и проверить, является ли этот день выходным [КОД](Seminars/Seminar_02/Ex_015/Program.cs)    
     - Seminar_03
