@@ -7,6 +7,8 @@
     - Lecture_02
     - Lecture_03
         - Example012_Methods [КОД](Lectures/Lecture_03/Example012_Methods/Program.cs)
+        - Example013 [КОД](Lectures/Lecture_03/Example013/Program.cs)
+        - Example014 [КОД](Lectures/Lecture_03/Example014/Program.cs)
 - Seminar
     - Seminar_01
         - Ex001 
