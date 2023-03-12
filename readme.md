@@ -48,3 +48,7 @@
     - Seminar_03
         - Ex019
         Проверить, является ли число палиндромом [КОД](Seminars/Seminar_03/Ex_019/Program.cs)
+        - Ex021
+        Найти расстояние между точками в 3d пространстве [КОД](Seminars/Seminar_03/Eх_021/Program.cs)
+        - Ex023
+        Выдать таблицу кубов [КОД](Seminars/Seminar_03/Ex_023/Program.cs)
