@@ -2,23 +2,25 @@
 // 452 -> 11
 // 82 -> 10
 // 9012 -> 12
-Console.Write("Введите число N: ");
-int numberN = Convert.ToInt32(Console.ReadLine());
 
-  int SumNumber(int numberN)
+Console.WriteLine ("Введите число N ");
+int NumberN = Convert.ToInt16 (Console.ReadLine());
+
+int SumDigits (int NumberN)
+{
+  int counter = Convert.ToString(NumberN).Length;
+  int interim = 0;
+  int result = 0;
+
+  for (int i=0; i<counter; i++)
   {
-    
-    int counter = Convert.ToString(numberN).Length;
-    int advance = 0;
-    int result = 0;
-
-    for (int i = 0; i < counter; i++){
-      advance = numberN - numberN % 10;
-      result = result + (numberN - advance);
-      numberN = numberN / 10;
-    }
-   return result;
+  interim = NumberN - NumberN%10;
+  result = result + (NumberN - interim);
+  NumberN = interim/10;
   }
+  return result;
+}
+int sumDigits = SumDigits(NumberN);
+Console.WriteLine(sumDigits);
 
-int sumNumber = SumNumber(numberN);
-Console.WriteLine("Сумма цифр в числе: " + sumNumber);
+
