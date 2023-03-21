@@ -21,6 +21,6 @@ void GetAverage (double [,] arr)
     double c = Math.Truncate(10 * AvCol3) / 10;
     double AvCol4 = (arr[0,3]+arr[1,3]+arr[2,3])/3;
     double d = Math.Truncate(10 * AvCol4) / 10;
-    Console.WriteLine($"{a}, {b}, {c}, {d}");
+    Console.WriteLine($"Среднее арифметическое столбца 1 - {a}, столбца 2 - {b}, столбца 3 - {c}, столбца 4 - {d}");
 }
 GetAverage (array);
